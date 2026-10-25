@@ -145,5 +145,4 @@ Issues and pull requests are welcome, especially: more algorithm sets, notation 
 ## License
 
 MIT, see `LICENSE`.
-#   c u b e c a r d s - a n k i  
- 
+#
