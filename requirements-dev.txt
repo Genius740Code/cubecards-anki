@@ -1,0 +1,4 @@
+anki>=25.9
+PyQt6
+cairosvg
+Pillow

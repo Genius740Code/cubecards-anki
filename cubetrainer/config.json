@@ -1,0 +1,29 @@
+{
+  "cross_color": "white",
+  "front_color": "",
+  "colors": {
+    "white": "#ffffff",
+    "yellow": "#ffd500",
+    "green": "#009b48",
+    "blue": "#0046ad",
+    "red": "#b71234",
+    "orange": "#ff5800"
+  },
+  "grey_color": "#8a8a8a",
+  "body_color": "#161616",
+  "view": "top",
+  "stage": "",
+  "orient": "",
+  "front_show": "flat",
+  "back_show": "both",
+  "speed": 1,
+  "move_ms": 420,
+  "autoplay": true,
+  "loop": false,
+  "reverse_cards": false,
+  "deck_root": "Cube Trainer",
+  "default_sets": [
+    "2look-eo",
+    "2look-co"
+  ]
+}

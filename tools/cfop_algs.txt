@@ -1,0 +1,160 @@
+# SET|GROUP|NAME|ALG   (first algorithm per case; see README for credit)
+coll|Sune|Sune 1|R U R' U R U2 R'
+coll|Sune|Sune 2|y2 R U R' U R2 D R' U2 R D' R2
+coll|Sune|Sune 3|L' R U R' U' L U2 R U2 R'
+coll|Sune|Sune 4|y' R U R' U R U' R D R' U' R D' R2
+coll|Sune|Sune 5|R U' L' U R' U' L
+coll|Sune|Sune 6|y2 R U R' F' R U R' U R U2 R' F R U' R'
+coll|Anti-Sune|Anti-Sune 1|y R U2 R' U' R U' R'
+coll|Anti-Sune|Anti-Sune 2|y2 R2 D R' U R D' R' U R' U' R U' R'
+coll|Anti-Sune|Anti-Sune 3|y2 R2 D R' U2 R D' R2 U' R U' R'
+coll|Anti-Sune|Anti-Sune 4|y2 R' U' R U' R2 D' R U2 R' D R2
+coll|Anti-Sune|Anti-Sune 5|y2 r' F R F' r U R'
+coll|Anti-Sune|Anti-Sune 6|R U' R' U2 R U' R' U2 R' D' R U R' D R
+coll|H|H 1|R U R' U R U' R' U R U2 R'
+coll|H|H 2|F R U' R' U R U2 R' U' R U R' U' F'
+coll|H|H 3|R U R' U R U L' U R' U' L
+coll|H|H 4|y F R U R' U' R U R' U' R U R' U' F'
+coll|L|L 1|y' R U R' U R U' R' U R U' R' U R U2 R'
+coll|L|L 2|R' U2 R' D' R U2 R' D R2
+coll|L|L 3|y R U2 R D R' U2 R D' R2
+coll|L|L 4|y F R' F' r U R U' r'
+coll|L|L 5|y2 F' r U R' U' r' F R
+coll|L|L 6|y r U2 R2 F R F' R U2 r'
+coll|Pi|Pi 1|R U2 R2 U' R2 U' R2 U2 R
+coll|Pi|Pi 2|y F U R U' R' U R U' R2 F' R U R U' R'
+coll|Pi|Pi 3|R' U' F' R U R' U' R' F R2 U2 R' U2 R
+coll|Pi|Pi 4|R U R' U' R' F R2 U R' U' R U R' U' F'
+coll|Pi|Pi 5|R U' L' U R' U L U L' U L
+coll|Pi|Pi 6|R' F' U' F U' R U S' R' U R S
+coll|T|T 1|R U2 R' U' R U' R2 U2 R U R' U R
+coll|T|T 2|R' U R U2 R' L' U R U' L
+coll|T|T 3|y R' F' r U R U' r' F
+coll|T|T 4|y2 F R U R' U' R U' R' U' R U R' F'
+coll|T|T 5|y' r U R' U' r' F R F'
+coll|T|T 6|R' U R2 D r' U2 r D' R2 U' R
+coll|U|U 1|R' U' R U' R' U2 R2 U R' U R U2 R'
+coll|U|U 2|R' F R U' R' U' R U R' F' R U R' U' R' F R F' R
+coll|U|U 3|y2 R2 D R' U2 R D' R' U2 R'
+coll|U|U 4|F R U' R' U R U R' U R U' R' F'
+coll|U|U 5|R2 D' R U2 R' D R U2 R
+coll|U|U 6|R2 D' R U R' D R U R U' R' U' R
+oll|Dot Case|OLL 1|R U2 R2 F R F' U2 R' F R F'
+oll|Dot Case|OLL 2|y' R U' R2 D' r U r' D R2 U R'
+oll|Dot Case|OLL 3|y' f R U R' U' f' U' F R U R' U' F'
+oll|Dot Case|OLL 4|y' R' F2 R2 U2 R' F' R U2 R2 F2 R
+oll|Dot Case|OLL 17|R U R' U R' F R F' U2 R' F R F'
+oll|Dot Case|OLL 18|y R U2 R2 F R F' U2 M' U R U' r'
+oll|Dot Case|OLL 19|y S' R U R' S U' R' F R F'
+oll|Dot Case|OLL 20|r U R' U' M2 U R U' R' U' M'
+oll|Square Shapes|OLL 5|r' U2 R U R' U r
+oll|Square Shapes|OLL 6|r U2 R' U' R U' r'
+oll|Lightning Shapes|OLL 7|r U R' U R U2 r'
+oll|Lightning Shapes|OLL 8|y2 r' U' R U' R' U2 r
+oll|Lightning Shapes|OLL 11|r' R2 U R' U R U2 R' U M'
+oll|Lightning Shapes|OLL 12|y' M' R' U' R U' R' U2 R U' M
+oll|Lightning Shapes|OLL 39|y' f' r U r' U' r' F r S
+oll|Lightning Shapes|OLL 40|y R' F R U R' U' F' U R
+oll|Fish Shapes|OLL 9|y R U R' U' R' F R2 U R' U' F'
+oll|Fish Shapes|OLL 10|R U R' U R' F R F' R U2 R'
+oll|Fish Shapes|OLL 35|R U2 R2 F R F' R U2 R'
+oll|Fish Shapes|OLL 37|F R' F' R U R U' R'
+oll|Knight Move Shapes|OLL 13|F U R U2 R' U' R U R' F'
+oll|Knight Move Shapes|OLL 14|R' F R U R' F' R F U' F'
+oll|Knight Move Shapes|OLL 15|r' U' r R' U' R U r' U r
+oll|Knight Move Shapes|OLL 16|r U r' R U R' U' r U' r'
+oll|OCLL|OLL 21|R U R' U R U' R' U R U2 R'
+oll|OCLL|OLL 22|R U2 R2 U' R2 U' R2 U2 R
+oll|OCLL|OLL 23|R2 D R' U2 R D' R' U2 R'
+oll|OCLL|OLL 24|r U R' U' r' F R F'
+oll|OCLL|OLL 25|R U2 R D R' U2 R D' R2
+oll|OCLL|OLL 26|y R U2 R' U' R U' R'
+oll|OCLL|OLL 27|R U R' U R U2 R'
+oll|All Corners Oriented|OLL 28|r U R' U' M U R U' R'
+oll|All Corners Oriented|OLL 57|R U R' U' M' U R U' r'
+oll|Awkward Shapes|OLL 29|r2 D' r U r' D r2 U' r' U' r
+oll|Awkward Shapes|OLL 30|y' r' D' r U' r' D r2 U' r' U r U r'
+oll|Awkward Shapes|OLL 41|y2 R U R' U R U2 R' F R U R' U' F'
+oll|Awkward Shapes|OLL 42|R' U' R U' R' U2 R F R U R' U' F'
+oll|P Shapes|OLL 31|R' U' F U R U' R' F' R
+oll|P Shapes|OLL 32|S R U R' U' R' F R f'
+oll|P Shapes|OLL 43|y R' U' F' U F R
+oll|P Shapes|OLL 44|f R U R' U' f'
+oll|T Shapes|OLL 33|R U R' U' R' F R F'
+oll|T Shapes|OLL 45|F R U R' U' F'
+oll|C Shapes|OLL 34|y f R f' U' r' U' R U M'
+oll|C Shapes|OLL 46|R' U' R' F R F' U R
+oll|W Shapes|OLL 36|y R U R2 F' U' F U R2 U2 R'
+oll|W Shapes|OLL 38|R U R' U R U' R' U' R' F R F'
+oll|L Shapes|OLL 47|y' F R' F' R U2 R U' R' U R U2 R'
+oll|L Shapes|OLL 48|F R U R' U' R U R' U' F'
+oll|L Shapes|OLL 49|y2 r U' r2 U r2 U r2 U' r
+oll|L Shapes|OLL 50|r' U r2 U' r2 U' r2 U r'
+oll|L Shapes|OLL 53|r' U' R U' R' U R U' R' U2 r
+oll|L Shapes|OLL 54|r U R' U R U' R' U R U2 r'
+oll|Line Shapes|OLL 51|y2 F U R U' R' U R U' R' F'
+oll|Line Shapes|OLL 52|y2 R' F' U' F U' R U R' U R
+oll|Line Shapes|OLL 55|y R' F U R U' R2 F' R2 U R' U' R
+oll|Line Shapes|OLL 56|r U r' U R U' R' U R U' R' r U' r'
+pll|Adjacent Swap|Aa perm|x R' U R' D2 R U' R' D2 R2 x'
+pll|Adjacent Swap|Ab perm|x R2 D2 R U R' D2 R U' R x'
+pll|Adjacent Swap|F perm|y R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R
+pll|Adjacent Swap|Ga perm|R2 U R' U R' U' R U' R2 D U' R' U R D'
+pll|Adjacent Swap|Gb perm|D R' U' R U D' R2 U R' U R U' R U' R2
+pll|Adjacent Swap|Gc perm|R2 U' R U' R U R' U R2 D' U R U' R' D
+pll|Adjacent Swap|Gd perm|R U R' U' D R2 U' R U' R' U R' U R2 D'
+pll|Adjacent Swap|Ja perm|y2 x R2 F R F' R U2 r' U r U2 x'
+pll|Adjacent Swap|Jb perm|R U R' F' R U R' U' R' F R2 U' R'
+pll|Adjacent Swap|Ra perm|y R U' R' U' R U R D R' U' R D' R' U2 R'
+pll|Adjacent Swap|Rb perm|R' U2 R U2 R' F R U R' U' R' F' R2
+pll|Adjacent Swap|T perm|R U R' U' R' F R2 U' R' U' R U R' F'
+pll|Opposite Swap|E perm|y x' R U' R' D R U R' D' R U R' D R U' R' D' x
+pll|Opposite Swap|Na perm|R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R'
+pll|Opposite Swap|Nb perm|R' U R U' R' F' U' F R U R' F R' F' R U' R
+pll|Opposite Swap|V perm|R' U R' U' R D' R' D R' U D' R2 U' R2 D R2
+pll|Opposite Swap|Y perm|F R U' R' U' R U R' F' R U R' U' R' F R F'
+pll|EPLL|H perm|M2 U M2 U2 M2 U M2
+pll|EPLL|Ua perm|y2 M2 U M U2 M' U M2
+pll|EPLL|Ub perm|y2 M2 U' M U2 M' U' M2
+pll|EPLL|Z perm|M' U' M2 U' M2 U' M' U2 M2
+f2l|Free Pairs|F2L 1|U R U' R'
+f2l|Free Pairs|F2L 2|F R' F' R
+f2l|Free Pairs|F2L 3|F' U' F
+f2l|Free Pairs|F2L 4|R U R'
+f2l|Disconnected Pairs|F2L 5|U' R U R' U2 R U' R'
+f2l|Disconnected Pairs|F2L 6|U' r U' R' U R U r'
+f2l|Disconnected Pairs|F2L 7|U' R U2 R' U' R U2 R'
+f2l|Disconnected Pairs|F2L 8|r' U2 R2 U R2 U r
+f2l|Disconnected Pairs|F2L 9|U' R U' R' U F' U' F
+f2l|Disconnected Pairs|F2L 10|U' R U R' U R U R'
+f2l|Disconnected Pairs|F2L 19|U R U2 R' U R U' R'
+f2l|Disconnected Pairs|F2L 20|y' U' R' U2 R U' R' U R
+f2l|Disconnected Pairs|F2L 21|U2 R U R' U R U' R'
+f2l|Disconnected Pairs|F2L 22|r U' r' U2 r U r'
+f2l|Connected Pairs|F2L 11|U' R U2 R' U F' U' F
+f2l|Connected Pairs|F2L 12|R U' R' U R U' R' U2 R U' R'
+f2l|Connected Pairs|F2L 13|y' U R' U R U' R' U' R
+f2l|Connected Pairs|F2L 14|U' R U' R' U R U R'
+f2l|Connected Pairs|F2L 15|M U r U' r' U' M'
+f2l|Connected Pairs|F2L 16|R U' R' U2 F' U' F
+f2l|Connected Pairs|F2L 17|R U2 R' U' R U R'
+f2l|Connected Pairs|F2L 18|y' R' U2 R U R' U' R
+f2l|Connected Pairs|F2L 23|U R U' R' U' R U' R' U R U' R'
+f2l|Connected Pairs|F2L 24|F U R U' R' F' R U' R'
+f2l|Corner In Slot|F2L 25|U' R' F R F' R U R'
+f2l|Corner In Slot|F2L 26|U R U' R' F R' F' R
+f2l|Corner In Slot|F2L 27|R U' R' U R U' R'
+f2l|Corner In Slot|F2L 28|R U R' U' F R' F' R
+f2l|Corner In Slot|F2L 29|R' F R F' U R U' R'
+f2l|Corner In Slot|F2L 30|R U R' U' R U R'
+f2l|Edge In Slot|F2L 31|U' R' F R F' R U' R'
+f2l|Edge In Slot|F2L 32|U R U' R' U R U' R' U R U' R'
+f2l|Edge In Slot|F2L 33|U' R U' R' U2 R U' R'
+f2l|Edge In Slot|F2L 34|U R U R' U2 R U R'
+f2l|Edge In Slot|F2L 35|U' R U R' U F' U' F
+f2l|Edge In Slot|F2L 36|U F' U' F U' R U R'
+f2l|Pieces In Slot|F2L 37|R2 U2 F R2 F' U2 R' U R'
+f2l|Pieces In Slot|F2L 38|R U' R' U' R U R' U2 R U' R'
+f2l|Pieces In Slot|F2L 39|R U' R' U R U2 R' U R U' R'
+f2l|Pieces In Slot|F2L 40|r U' r' U2 r U r' R U R'
+f2l|Pieces In Slot|F2L 41|R U' R' r U' r' U2 r U r'

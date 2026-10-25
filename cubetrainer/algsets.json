@@ -1,0 +1,1130 @@
+{
+ "version": 2,
+ "sets": [
+  {
+   "id": "f2l",
+   "name": "F2L (41 cases)",
+   "deck": "F2L",
+   "stage": "f2l",
+   "set": "F2L",
+   "algs": [
+    {
+     "name": "F2L 1",
+     "alg": "U R U' R'",
+     "group": "Free Pairs",
+     "notes": "Group: Free Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 2",
+     "alg": "F R' F' R",
+     "group": "Free Pairs",
+     "notes": "Group: Free Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 3",
+     "alg": "F' U' F",
+     "group": "Free Pairs",
+     "notes": "Group: Free Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 4",
+     "alg": "R U R'",
+     "group": "Free Pairs",
+     "notes": "Group: Free Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 5",
+     "alg": "U' R U R' U2 R U' R'",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 6",
+     "alg": "U' r U' R' U R U r'",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 7",
+     "alg": "U' R U2 R' U' R U2 R'",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 8",
+     "alg": "r' U2 R2 U R2 U r",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 9",
+     "alg": "U' R U' R' U F' U' F",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 10",
+     "alg": "U' R U R' U R U R'",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 19",
+     "alg": "U R U2 R' U R U' R'",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 20",
+     "alg": "y' U' R' U2 R U' R' U R",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 21",
+     "alg": "U2 R U R' U R U' R'",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 22",
+     "alg": "r U' r' U2 r U r'",
+     "group": "Disconnected Pairs",
+     "notes": "Group: Disconnected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 11",
+     "alg": "U' R U2 R' U F' U' F",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 12",
+     "alg": "R U' R' U R U' R' U2 R U' R'",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 13",
+     "alg": "y' U R' U R U' R' U' R",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 14",
+     "alg": "U' R U' R' U R U R'",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 15",
+     "alg": "M U r U' r' U' M'",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 16",
+     "alg": "R U' R' U2 F' U' F",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 17",
+     "alg": "R U2 R' U' R U R'",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 18",
+     "alg": "y' R' U2 R U R' U' R",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 23",
+     "alg": "U R U' R' U' R U' R' U R U' R'",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 24",
+     "alg": "F U R U' R' F' R U' R'",
+     "group": "Connected Pairs",
+     "notes": "Group: Connected Pairs",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 25",
+     "alg": "U' R' F R F' R U R'",
+     "group": "Corner In Slot",
+     "notes": "Group: Corner In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 26",
+     "alg": "U R U' R' F R' F' R",
+     "group": "Corner In Slot",
+     "notes": "Group: Corner In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 27",
+     "alg": "R U' R' U R U' R'",
+     "group": "Corner In Slot",
+     "notes": "Group: Corner In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 28",
+     "alg": "R U R' U' F R' F' R",
+     "group": "Corner In Slot",
+     "notes": "Group: Corner In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 29",
+     "alg": "R' F R F' U R U' R'",
+     "group": "Corner In Slot",
+     "notes": "Group: Corner In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 30",
+     "alg": "R U R' U' R U R'",
+     "group": "Corner In Slot",
+     "notes": "Group: Corner In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 31",
+     "alg": "U' R' F R F' R U' R'",
+     "group": "Edge In Slot",
+     "notes": "Group: Edge In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 32",
+     "alg": "U R U' R' U R U' R' U R U' R'",
+     "group": "Edge In Slot",
+     "notes": "Group: Edge In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 33",
+     "alg": "U' R U' R' U2 R U' R'",
+     "group": "Edge In Slot",
+     "notes": "Group: Edge In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 34",
+     "alg": "U R U R' U2 R U R'",
+     "group": "Edge In Slot",
+     "notes": "Group: Edge In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 35",
+     "alg": "U' R U R' U F' U' F",
+     "group": "Edge In Slot",
+     "notes": "Group: Edge In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 36",
+     "alg": "U F' U' F U' R U R'",
+     "group": "Edge In Slot",
+     "notes": "Group: Edge In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 37",
+     "alg": "R2 U2 F R2 F' U2 R' U R'",
+     "group": "Pieces In Slot",
+     "notes": "Group: Pieces In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 38",
+     "alg": "R U' R' U' R U R' U2 R U' R'",
+     "group": "Pieces In Slot",
+     "notes": "Group: Pieces In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 39",
+     "alg": "R U' R' U R U2 R' U R U' R'",
+     "group": "Pieces In Slot",
+     "notes": "Group: Pieces In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 40",
+     "alg": "r U' r' U2 r U r' R U R'",
+     "group": "Pieces In Slot",
+     "notes": "Group: Pieces In Slot",
+     "view": "3d"
+    },
+    {
+     "name": "F2L 41",
+     "alg": "R U' R' r U' r' U2 r U r'",
+     "group": "Pieces In Slot",
+     "notes": "Group: Pieces In Slot",
+     "view": "3d"
+    }
+   ]
+  },
+  {
+   "id": "oll",
+   "name": "OLL (57 cases)",
+   "deck": "OLL",
+   "stage": "oll",
+   "set": "OLL",
+   "algs": [
+    {
+     "name": "OLL 1",
+     "alg": "R U2 R2 F R F' U2 R' F R F'",
+     "group": "Dot Case",
+     "notes": "Group: Dot Case"
+    },
+    {
+     "name": "OLL 2",
+     "alg": "y' R U' R2 D' r U r' D R2 U R'",
+     "group": "Dot Case",
+     "notes": "Group: Dot Case"
+    },
+    {
+     "name": "OLL 3",
+     "alg": "y' f R U R' U' f' U' F R U R' U' F'",
+     "group": "Dot Case",
+     "notes": "Group: Dot Case"
+    },
+    {
+     "name": "OLL 4",
+     "alg": "y' R' F2 R2 U2 R' F' R U2 R2 F2 R",
+     "group": "Dot Case",
+     "notes": "Group: Dot Case"
+    },
+    {
+     "name": "OLL 17",
+     "alg": "R U R' U R' F R F' U2 R' F R F'",
+     "group": "Dot Case",
+     "notes": "Group: Dot Case"
+    },
+    {
+     "name": "OLL 18",
+     "alg": "y R U2 R2 F R F' U2 M' U R U' r'",
+     "group": "Dot Case",
+     "notes": "Group: Dot Case"
+    },
+    {
+     "name": "OLL 19",
+     "alg": "y S' R U R' S U' R' F R F'",
+     "group": "Dot Case",
+     "notes": "Group: Dot Case"
+    },
+    {
+     "name": "OLL 20",
+     "alg": "r U R' U' M2 U R U' R' U' M'",
+     "group": "Dot Case",
+     "notes": "Group: Dot Case"
+    },
+    {
+     "name": "OLL 5",
+     "alg": "r' U2 R U R' U r",
+     "group": "Square Shapes",
+     "notes": "Group: Square Shapes"
+    },
+    {
+     "name": "OLL 6",
+     "alg": "r U2 R' U' R U' r'",
+     "group": "Square Shapes",
+     "notes": "Group: Square Shapes"
+    },
+    {
+     "name": "OLL 7",
+     "alg": "r U R' U R U2 r'",
+     "group": "Lightning Shapes",
+     "notes": "Group: Lightning Shapes"
+    },
+    {
+     "name": "OLL 8",
+     "alg": "y2 r' U' R U' R' U2 r",
+     "group": "Lightning Shapes",
+     "notes": "Group: Lightning Shapes"
+    },
+    {
+     "name": "OLL 11",
+     "alg": "r' R2 U R' U R U2 R' U M'",
+     "group": "Lightning Shapes",
+     "notes": "Group: Lightning Shapes"
+    },
+    {
+     "name": "OLL 12",
+     "alg": "y' M' R' U' R U' R' U2 R U' M",
+     "group": "Lightning Shapes",
+     "notes": "Group: Lightning Shapes"
+    },
+    {
+     "name": "OLL 39",
+     "alg": "y' f' r U r' U' r' F r S",
+     "group": "Lightning Shapes",
+     "notes": "Group: Lightning Shapes"
+    },
+    {
+     "name": "OLL 40",
+     "alg": "y R' F R U R' U' F' U R",
+     "group": "Lightning Shapes",
+     "notes": "Group: Lightning Shapes"
+    },
+    {
+     "name": "OLL 9",
+     "alg": "y R U R' U' R' F R2 U R' U' F'",
+     "group": "Fish Shapes",
+     "notes": "Group: Fish Shapes"
+    },
+    {
+     "name": "OLL 10",
+     "alg": "R U R' U R' F R F' R U2 R'",
+     "group": "Fish Shapes",
+     "notes": "Group: Fish Shapes"
+    },
+    {
+     "name": "OLL 35",
+     "alg": "R U2 R2 F R F' R U2 R'",
+     "group": "Fish Shapes",
+     "notes": "Group: Fish Shapes"
+    },
+    {
+     "name": "OLL 37",
+     "alg": "F R' F' R U R U' R'",
+     "group": "Fish Shapes",
+     "notes": "Group: Fish Shapes"
+    },
+    {
+     "name": "OLL 13",
+     "alg": "F U R U2 R' U' R U R' F'",
+     "group": "Knight Move Shapes",
+     "notes": "Group: Knight Move Shapes"
+    },
+    {
+     "name": "OLL 14",
+     "alg": "R' F R U R' F' R F U' F'",
+     "group": "Knight Move Shapes",
+     "notes": "Group: Knight Move Shapes"
+    },
+    {
+     "name": "OLL 15",
+     "alg": "r' U' r R' U' R U r' U r",
+     "group": "Knight Move Shapes",
+     "notes": "Group: Knight Move Shapes"
+    },
+    {
+     "name": "OLL 16",
+     "alg": "r U r' R U R' U' r U' r'",
+     "group": "Knight Move Shapes",
+     "notes": "Group: Knight Move Shapes"
+    },
+    {
+     "name": "OLL 21",
+     "alg": "R U R' U R U' R' U R U2 R'",
+     "group": "OCLL",
+     "notes": "Group: OCLL"
+    },
+    {
+     "name": "OLL 22",
+     "alg": "R U2 R2 U' R2 U' R2 U2 R",
+     "group": "OCLL",
+     "notes": "Group: OCLL"
+    },
+    {
+     "name": "OLL 23",
+     "alg": "R2 D R' U2 R D' R' U2 R'",
+     "group": "OCLL",
+     "notes": "Group: OCLL"
+    },
+    {
+     "name": "OLL 24",
+     "alg": "r U R' U' r' F R F'",
+     "group": "OCLL",
+     "notes": "Group: OCLL"
+    },
+    {
+     "name": "OLL 25",
+     "alg": "R U2 R D R' U2 R D' R2",
+     "group": "OCLL",
+     "notes": "Group: OCLL"
+    },
+    {
+     "name": "OLL 26",
+     "alg": "y R U2 R' U' R U' R'",
+     "group": "OCLL",
+     "notes": "Group: OCLL"
+    },
+    {
+     "name": "OLL 27",
+     "alg": "R U R' U R U2 R'",
+     "group": "OCLL",
+     "notes": "Group: OCLL"
+    },
+    {
+     "name": "OLL 28",
+     "alg": "r U R' U' M U R U' R'",
+     "group": "All Corners Oriented",
+     "notes": "Group: All Corners Oriented"
+    },
+    {
+     "name": "OLL 57",
+     "alg": "R U R' U' M' U R U' r'",
+     "group": "All Corners Oriented",
+     "notes": "Group: All Corners Oriented"
+    },
+    {
+     "name": "OLL 29",
+     "alg": "r2 D' r U r' D r2 U' r' U' r",
+     "group": "Awkward Shapes",
+     "notes": "Group: Awkward Shapes"
+    },
+    {
+     "name": "OLL 30",
+     "alg": "y' r' D' r U' r' D r2 U' r' U r U r'",
+     "group": "Awkward Shapes",
+     "notes": "Group: Awkward Shapes"
+    },
+    {
+     "name": "OLL 41",
+     "alg": "y2 R U R' U R U2 R' F R U R' U' F'",
+     "group": "Awkward Shapes",
+     "notes": "Group: Awkward Shapes"
+    },
+    {
+     "name": "OLL 42",
+     "alg": "R' U' R U' R' U2 R F R U R' U' F'",
+     "group": "Awkward Shapes",
+     "notes": "Group: Awkward Shapes"
+    },
+    {
+     "name": "OLL 31",
+     "alg": "R' U' F U R U' R' F' R",
+     "group": "P Shapes",
+     "notes": "Group: P Shapes"
+    },
+    {
+     "name": "OLL 32",
+     "alg": "S R U R' U' R' F R f'",
+     "group": "P Shapes",
+     "notes": "Group: P Shapes"
+    },
+    {
+     "name": "OLL 43",
+     "alg": "y R' U' F' U F R",
+     "group": "P Shapes",
+     "notes": "Group: P Shapes"
+    },
+    {
+     "name": "OLL 44",
+     "alg": "f R U R' U' f'",
+     "group": "P Shapes",
+     "notes": "Group: P Shapes"
+    },
+    {
+     "name": "OLL 33",
+     "alg": "R U R' U' R' F R F'",
+     "group": "T Shapes",
+     "notes": "Group: T Shapes"
+    },
+    {
+     "name": "OLL 45",
+     "alg": "F R U R' U' F'",
+     "group": "T Shapes",
+     "notes": "Group: T Shapes"
+    },
+    {
+     "name": "OLL 34",
+     "alg": "y f R f' U' r' U' R U M'",
+     "group": "C Shapes",
+     "notes": "Group: C Shapes"
+    },
+    {
+     "name": "OLL 46",
+     "alg": "R' U' R' F R F' U R",
+     "group": "C Shapes",
+     "notes": "Group: C Shapes"
+    },
+    {
+     "name": "OLL 36",
+     "alg": "y R U R2 F' U' F U R2 U2 R'",
+     "group": "W Shapes",
+     "notes": "Group: W Shapes"
+    },
+    {
+     "name": "OLL 38",
+     "alg": "R U R' U R U' R' U' R' F R F'",
+     "group": "W Shapes",
+     "notes": "Group: W Shapes"
+    },
+    {
+     "name": "OLL 47",
+     "alg": "y' F R' F' R U2 R U' R' U R U2 R'",
+     "group": "L Shapes",
+     "notes": "Group: L Shapes"
+    },
+    {
+     "name": "OLL 48",
+     "alg": "F R U R' U' R U R' U' F'",
+     "group": "L Shapes",
+     "notes": "Group: L Shapes"
+    },
+    {
+     "name": "OLL 49",
+     "alg": "y2 r U' r2 U r2 U r2 U' r",
+     "group": "L Shapes",
+     "notes": "Group: L Shapes"
+    },
+    {
+     "name": "OLL 50",
+     "alg": "r' U r2 U' r2 U' r2 U r'",
+     "group": "L Shapes",
+     "notes": "Group: L Shapes"
+    },
+    {
+     "name": "OLL 53",
+     "alg": "r' U' R U' R' U R U' R' U2 r",
+     "group": "L Shapes",
+     "notes": "Group: L Shapes"
+    },
+    {
+     "name": "OLL 54",
+     "alg": "r U R' U R U' R' U R U2 r'",
+     "group": "L Shapes",
+     "notes": "Group: L Shapes"
+    },
+    {
+     "name": "OLL 51",
+     "alg": "y2 F U R U' R' U R U' R' F'",
+     "group": "Line Shapes",
+     "notes": "Group: Line Shapes"
+    },
+    {
+     "name": "OLL 52",
+     "alg": "y2 R' F' U' F U' R U R' U R",
+     "group": "Line Shapes",
+     "notes": "Group: Line Shapes"
+    },
+    {
+     "name": "OLL 55",
+     "alg": "y R' F U R U' R2 F' R2 U R' U' R",
+     "group": "Line Shapes",
+     "notes": "Group: Line Shapes"
+    },
+    {
+     "name": "OLL 56",
+     "alg": "r U r' U R U' R' U R U' R' r U' r'",
+     "group": "Line Shapes",
+     "notes": "Group: Line Shapes"
+    }
+   ]
+  },
+  {
+   "id": "pll",
+   "name": "PLL (21 cases)",
+   "deck": "PLL",
+   "stage": "pll",
+   "set": "PLL",
+   "algs": [
+    {
+     "name": "Aa perm",
+     "alg": "x R' U R' D2 R U' R' D2 R2 x'",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "Ab perm",
+     "alg": "x R2 D2 R U R' D2 R U' R x'",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "F perm",
+     "alg": "y R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "Ga perm",
+     "alg": "R2 U R' U R' U' R U' R2 D U' R' U R D'",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "Gb perm",
+     "alg": "D R' U' R U D' R2 U R' U R U' R U' R2",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "Gc perm",
+     "alg": "R2 U' R U' R U R' U R2 D' U R U' R' D",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "Gd perm",
+     "alg": "R U R' U' D R2 U' R U' R' U R' U R2 D'",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "Ja perm",
+     "alg": "y2 x R2 F R F' R U2 r' U r U2 x'",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "Jb perm",
+     "alg": "R U R' F' R U R' U' R' F R2 U' R'",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap<br>After the alg, finish with U'.",
+     "scramble": "U R U R2 F' R U R U' R' F R U' R'"
+    },
+    {
+     "name": "Ra perm",
+     "alg": "y R U' R' U' R U R D R' U' R D' R' U2 R'",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap<br>After the alg, finish with U'.",
+     "scramble": "y U R U2 R D R' U R D' R' U' R' U R U R' y'"
+    },
+    {
+     "name": "Rb perm",
+     "alg": "R' U2 R U2 R' F R U R' U' R' F' R2",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap<br>After the alg, finish with U'.",
+     "scramble": "U R2 F R U R U' R' F' R U2 R' U2 R"
+    },
+    {
+     "name": "T perm",
+     "alg": "R U R' U' R' F R2 U' R' U' R U R' F'",
+     "group": "Adjacent Swap",
+     "notes": "Group: Adjacent Swap"
+    },
+    {
+     "name": "E perm",
+     "alg": "y x' R U' R' D R U R' D' R U R' D R U' R' D' x",
+     "group": "Opposite Swap",
+     "notes": "Group: Opposite Swap"
+    },
+    {
+     "name": "Na perm",
+     "alg": "R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R'",
+     "group": "Opposite Swap",
+     "notes": "Group: Opposite Swap"
+    },
+    {
+     "name": "Nb perm",
+     "alg": "R' U R U' R' F' U' F R U R' F R' F' R U' R",
+     "group": "Opposite Swap",
+     "notes": "Group: Opposite Swap"
+    },
+    {
+     "name": "V perm",
+     "alg": "R' U R' U' R D' R' D R' U D' R2 U' R2 D R2",
+     "group": "Opposite Swap",
+     "notes": "Group: Opposite Swap"
+    },
+    {
+     "name": "Y perm",
+     "alg": "F R U' R' U' R U R' F' R U R' U' R' F R F'",
+     "group": "Opposite Swap",
+     "notes": "Group: Opposite Swap"
+    },
+    {
+     "name": "H perm",
+     "alg": "M2 U M2 U2 M2 U M2",
+     "group": "EPLL",
+     "notes": "Group: EPLL"
+    },
+    {
+     "name": "Ua perm",
+     "alg": "y2 M2 U M U2 M' U M2",
+     "group": "EPLL",
+     "notes": "Group: EPLL"
+    },
+    {
+     "name": "Ub perm",
+     "alg": "y2 M2 U' M U2 M' U' M2",
+     "group": "EPLL",
+     "notes": "Group: EPLL"
+    },
+    {
+     "name": "Z perm",
+     "alg": "M' U' M2 U' M2 U' M' U2 M2",
+     "group": "EPLL",
+     "notes": "Group: EPLL<br>After the alg, finish with U.",
+     "scramble": "U' M2 U2 M U M2 U M2 U M"
+    }
+   ]
+  },
+  {
+   "id": "coll",
+   "name": "COLL (40 cases)",
+   "deck": "COLL",
+   "stage": "coll",
+   "set": "COLL",
+   "algs": [
+    {
+     "name": "Sune 1",
+     "alg": "R U R' U R U2 R'",
+     "group": "Sune",
+     "notes": "Group: Sune<br>After the alg, finish with U2.",
+     "scramble": "U2 R U2 R' U' R U' R'"
+    },
+    {
+     "name": "Sune 2",
+     "alg": "y2 R U R' U R2 D R' U2 R D' R2",
+     "group": "Sune",
+     "notes": "Group: Sune<br>After the alg, finish with U'.",
+     "scramble": "y y U R2 D R' U2 R D' R2 U' R U' R' y2"
+    },
+    {
+     "name": "Sune 3",
+     "alg": "L' R U R' U' L U2 R U2 R'",
+     "group": "Sune",
+     "notes": "Group: Sune<br>After the alg, finish with U.",
+     "scramble": "U' R U2 R' U2 L' U R U' R' L"
+    },
+    {
+     "name": "Sune 4",
+     "alg": "y' R U R' U R U' R D R' U' R D' R2",
+     "group": "Sune",
+     "notes": "Group: Sune<br>After the alg, finish with U'.",
+     "scramble": "y y y U R2 D R' U R D' R' U R' U' R U' R' y"
+    },
+    {
+     "name": "Sune 5",
+     "alg": "R U' L' U R' U' L",
+     "group": "Sune",
+     "notes": "Group: Sune<br>After the alg, finish with U2.",
+     "scramble": "U2 L' U R U' L U R'"
+    },
+    {
+     "name": "Sune 6",
+     "alg": "y2 R U R' F' R U R' U R U2 R' F R U' R'",
+     "group": "Sune",
+     "notes": "Group: Sune<br>After the alg, finish with U.",
+     "scramble": "y y U' R U R' F' R U2 R' U' R U' R' F R U' R' y2"
+    },
+    {
+     "name": "Anti-Sune 1",
+     "alg": "y R U2 R' U' R U' R'",
+     "group": "Anti-Sune",
+     "notes": "Group: Anti-Sune<br>After the alg, finish with U2.",
+     "scramble": "y U2 R U R' U R U2 R' y'"
+    },
+    {
+     "name": "Anti-Sune 2",
+     "alg": "y2 R2 D R' U R D' R' U R' U' R U' R'",
+     "group": "Anti-Sune",
+     "notes": "Group: Anti-Sune<br>After the alg, finish with U.",
+     "scramble": "y y U' R U R' U R U' R D R' U' R D' R2 y2"
+    },
+    {
+     "name": "Anti-Sune 3",
+     "alg": "y2 R2 D R' U2 R D' R2 U' R U' R'",
+     "group": "Anti-Sune",
+     "notes": "Group: Anti-Sune<br>After the alg, finish with U.",
+     "scramble": "y y U' R U R' U R2 D R' U2 R D' R2 y2"
+    },
+    {
+     "name": "Anti-Sune 4",
+     "alg": "y2 R' U' R U' R2 D' R U2 R' D R2",
+     "group": "Anti-Sune",
+     "notes": "Group: Anti-Sune<br>After the alg, finish with U.",
+     "scramble": "y y U' R2 D' R U2 R' D R2 U R' U R y2"
+    },
+    {
+     "name": "Anti-Sune 5",
+     "alg": "y2 r' F R F' r U R'",
+     "group": "Anti-Sune",
+     "notes": "Group: Anti-Sune<br>After the alg, finish with U2.",
+     "scramble": "y y U2 R U' r' F R' F' r y2"
+    },
+    {
+     "name": "Anti-Sune 6",
+     "alg": "R U' R' U2 R U' R' U2 R' D' R U R' D R",
+     "group": "Anti-Sune",
+     "notes": "Group: Anti-Sune"
+    },
+    {
+     "name": "H 1",
+     "alg": "R U R' U R U' R' U R U2 R'",
+     "group": "H",
+     "notes": "Group: H"
+    },
+    {
+     "name": "H 2",
+     "alg": "F R U' R' U R U2 R' U' R U R' U' F'",
+     "group": "H",
+     "notes": "Group: H<br>After the alg, finish with U2.",
+     "scramble": "U2 F U R U' R' U R U2 R' U' R U R' F'"
+    },
+    {
+     "name": "H 3",
+     "alg": "R U R' U R U L' U R' U' L",
+     "group": "H",
+     "notes": "Group: H"
+    },
+    {
+     "name": "H 4",
+     "alg": "y F R U R' U' R U R' U' R U R' U' F'",
+     "group": "H",
+     "notes": "Group: H<br>After the alg, finish with U.",
+     "scramble": "y U' F U R U' R' U R U' R' U R U' R' F' y'"
+    },
+    {
+     "name": "L 1",
+     "alg": "y' R U R' U R U' R' U R U' R' U R U2 R'",
+     "group": "L",
+     "notes": "Group: L<br>After the alg, finish with U2.",
+     "scramble": "y y y U2 R U2 R' U' R U R' U' R U R' U' R U' R' y"
+    },
+    {
+     "name": "L 2",
+     "alg": "R' U2 R' D' R U2 R' D R2",
+     "group": "L",
+     "notes": "Group: L<br>After the alg, finish with U'.",
+     "scramble": "U R2 D' R U2 R' D R U2 R"
+    },
+    {
+     "name": "L 3",
+     "alg": "y R U2 R D R' U2 R D' R2",
+     "group": "L",
+     "notes": "Group: L<br>After the alg, finish with U.",
+     "scramble": "y U' R2 D R' U2 R D' R' U2 R' y'"
+    },
+    {
+     "name": "L 4",
+     "alg": "y F R' F' r U R U' r'",
+     "group": "L",
+     "notes": "Group: L<br>After the alg, finish with U'.",
+     "scramble": "y U r U R' U' r' F R F' y'"
+    },
+    {
+     "name": "L 5",
+     "alg": "y2 F' r U R' U' r' F R",
+     "group": "L",
+     "notes": "Group: L<br>After the alg, finish with U.",
+     "scramble": "y y U' R' F' r U R U' r' F y2"
+    },
+    {
+     "name": "L 6",
+     "alg": "y r U2 R2 F R F' R U2 r'",
+     "group": "L",
+     "notes": "Group: L<br>After the alg, finish with U.",
+     "scramble": "y U' r U2 R' F R' F' R2 U2 r' y'"
+    },
+    {
+     "name": "Pi 1",
+     "alg": "R U2 R2 U' R2 U' R2 U2 R",
+     "group": "Pi",
+     "notes": "Group: Pi<br>After the alg, finish with U2.",
+     "scramble": "U2 R' U2 R2 U R2 U R2 U2 R'"
+    },
+    {
+     "name": "Pi 2",
+     "alg": "y F U R U' R' U R U' R2 F' R U R U' R'",
+     "group": "Pi",
+     "notes": "Group: Pi<br>After the alg, finish with U'.",
+     "scramble": "y U R U R' U' R' F R2 U R' U' R U R' U' F' y'"
+    },
+    {
+     "name": "Pi 3",
+     "alg": "R' U' F' R U R' U' R' F R2 U2 R' U2 R",
+     "group": "Pi",
+     "notes": "Group: Pi"
+    },
+    {
+     "name": "Pi 4",
+     "alg": "R U R' U' R' F R2 U R' U' R U R' U' F'",
+     "group": "Pi",
+     "notes": "Group: Pi<br>After the alg, finish with U.",
+     "scramble": "U' F U R U' R' U R U' R2 F' R U R U' R'"
+    },
+    {
+     "name": "Pi 5",
+     "alg": "R U' L' U R' U L U L' U L",
+     "group": "Pi",
+     "notes": "Group: Pi"
+    },
+    {
+     "name": "Pi 6",
+     "alg": "R' F' U' F U' R U S' R' U R S",
+     "group": "Pi",
+     "notes": "Group: Pi<br>After the alg, finish with U.",
+     "scramble": "U' S' R' U' R S U' R' U F' U F R"
+    },
+    {
+     "name": "T 1",
+     "alg": "R U2 R' U' R U' R2 U2 R U R' U R",
+     "group": "T",
+     "notes": "Group: T"
+    },
+    {
+     "name": "T 2",
+     "alg": "R' U R U2 R' L' U R U' L",
+     "group": "T",
+     "notes": "Group: T<br>After the alg, finish with U2.",
+     "scramble": "U2 L' U R' U' L R U2 R' U' R"
+    },
+    {
+     "name": "T 3",
+     "alg": "y R' F' r U R U' r' F",
+     "group": "T",
+     "notes": "Group: T<br>After the alg, finish with U'.",
+     "scramble": "y U F' r U R' U' r' F R y'"
+    },
+    {
+     "name": "T 4",
+     "alg": "y2 F R U R' U' R U' R' U' R U R' F'",
+     "group": "T",
+     "notes": "Group: T<br>After the alg, finish with U2.",
+     "scramble": "y y U2 F R U' R' U R U R' U R U' R' F' y2"
+    },
+    {
+     "name": "T 5",
+     "alg": "y' r U R' U' r' F R F'",
+     "group": "T",
+     "notes": "Group: T<br>After the alg, finish with U.",
+     "scramble": "y y y U' F R' F' r U R U' r' y"
+    },
+    {
+     "name": "T 6",
+     "alg": "R' U R2 D r' U2 r D' R2 U' R",
+     "group": "T",
+     "notes": "Group: T<br>After the alg, finish with U.",
+     "scramble": "U' R' U R2 D r' U2 r D' R2 U' R"
+    },
+    {
+     "name": "U 1",
+     "alg": "R' U' R U' R' U2 R2 U R' U R U2 R'",
+     "group": "U",
+     "notes": "Group: U"
+    },
+    {
+     "name": "U 2",
+     "alg": "R' F R U' R' U' R U R' F' R U R' U' R' F R F' R",
+     "group": "U",
+     "notes": "Group: U"
+    },
+    {
+     "name": "U 3",
+     "alg": "y2 R2 D R' U2 R D' R' U2 R'",
+     "group": "U",
+     "notes": "Group: U<br>After the alg, finish with U'.",
+     "scramble": "y y U R U2 R D R' U2 R D' R2 y2"
+    },
+    {
+     "name": "U 4",
+     "alg": "F R U' R' U R U R' U R U' R' F'",
+     "group": "U",
+     "notes": "Group: U<br>After the alg, finish with U2.",
+     "scramble": "U2 F R U R' U' R U' R' U' R U R' F'"
+    },
+    {
+     "name": "U 5",
+     "alg": "R2 D' R U2 R' D R U2 R",
+     "group": "U",
+     "notes": "Group: U<br>After the alg, finish with U.",
+     "scramble": "U' R' U2 R' D' R U2 R' D R2"
+    },
+    {
+     "name": "U 6",
+     "alg": "R2 D' R U R' D R U R U' R' U' R",
+     "group": "U",
+     "notes": "Group: U<br>After the alg, finish with U.",
+     "scramble": "U' R' U R U R' U' R' D' R U' R' D R2"
+    }
+   ]
+  },
+  {
+   "id": "2look-eo",
+   "name": "2-Look OLL: Edges",
+   "deck": "2-Look OLL",
+   "stage": "oll",
+   "set": "2-Look OLL",
+   "algs": [
+    {
+     "name": "Dot (no edges)",
+     "alg": "F R U R' U' F' f R U R' U' f'"
+    },
+    {
+     "name": "Line (bar)",
+     "alg": "F R U R' U' F'"
+    },
+    {
+     "name": "L-shape (angle)",
+     "alg": "f R U R' U' f'"
+    }
+   ]
+  },
+  {
+   "id": "2look-co",
+   "name": "2-Look OLL: Corners",
+   "deck": "2-Look OLL",
+   "stage": "oll",
+   "set": "2-Look OLL",
+   "algs": [
+    {
+     "name": "Sune",
+     "alg": "R U R' U R U2 R'"
+    },
+    {
+     "name": "Anti-Sune",
+     "alg": "R U2 R' U' R U' R'"
+    },
+    {
+     "name": "H",
+     "alg": "F R U R' U' R U R' U' R U R' U' F'"
+    },
+    {
+     "name": "Pi",
+     "alg": "R U2 R2 U' R2 U' R2 U2 R"
+    },
+    {
+     "name": "U",
+     "alg": "R2 D R' U2 R D' R' U2 R'"
+    },
+    {
+     "name": "T",
+     "alg": "r U R' U' r' F R F'"
+    },
+    {
+     "name": "L",
+     "alg": "F R' F' r U R U' r'"
+    }
+   ]
+  }
+ ]
+}
